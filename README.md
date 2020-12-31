@@ -1,4 +1,4 @@
-# simple-property-compare
+# Simple Property Compare
 This project was created to compare two property files and detect the differences between them.
 
 ## How to use?
